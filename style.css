@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #202020;
+  }
+  
+  header {
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+  }
+  
+
+  .logo img {
+    width : 150px;
+    height : 150px;
+    display: block;
+  width: 150px;
+  margin: auto;
+  }
+    
+  main {
+    padding: 20px;
+  }
+  
+
+  .product {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 250px;
+    margin: 20px;
+    padding: 30px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: block;
+    width: 200px;
+    margin: auto;
+    border: solid 5px #BABABA;
+  }
+  
+  .product-image {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+  }
+  
+  .product-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
+  .product-info {
+    text-align: center;
+  }
+  
+  .product-info h3 {
+    margin: 10px 0;
+  }
+  
+  .product-info p {
+    margin: 0;
+    padding: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #ccc;
+    color: #333;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .carre-bleu {
+    display: block;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    background-color: #516BFF;
+    display: block;
+    width: 30px;
+    margin: auto;
+    border-radius: 10px;
+    border-color: #202020;
+    border: solid 3px;
+  
+}
+
+.carre-or {
+    display: block;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    background-color: #EEAF00;
+    display: block;
+    width: 30px;
+    margin: auto;
+    border-radius: 10px;
+    border-color: #202020;
+    border: solid 3px;
+  
+}
+
+.carre-argent {
+    display: block;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    background-color: #CDCDCD;
+    display: block;
+    width: 30px;
+    margin: auto;
+    border-radius: 10px;
+    border-color: #202020;
+    border: solid 3px;
+  
+}
+
+
+  .carre-rouge {
+    display: block;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    background-color: #FF2727;
+    display: block;
+    width: 30px;
+    margin: auto;
+    border-radius: 10px;
+    border-color: #202020;
+    border: solid 3px;
+  
+}
+
+.button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #ccc;
+    color: #333;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
