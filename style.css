@@ -40,7 +40,38 @@ body {
     margin: auto;
     border: solid 5px #BABABA;
   }
+
+
+
+
+
+
+  .button1:hover {
+    background-color: #516BFF;
+  }
+
+  .button2:hover {
+    background-color: #EEAF00;
+  }
+
+  .button3:hover {
+    background-color: #CDCDCD;
+  }
   
+  .button4:hover {
+    background-color: #FF2727;
+  }
+  
+  
+  
+
+
+
+
+
+
+
+
   .product-image {
     width: 100%;
     height: 200px;
@@ -60,11 +91,13 @@ body {
   
   .product-info h3 {
     margin: 10px 0;
+    font-size: 40px;
   }
   
   .product-info p {
     margin: 0;
     padding: 10px;
+    font-size: 30px;
   }
   
   button {
@@ -76,6 +109,21 @@ body {
     border-radius: 5px;
     cursor: pointer;
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
   
   .carre-bleu {
     display: block;
@@ -137,6 +185,16 @@ body {
     border: solid 3px;
   
 }
+
+
+*/
+
+
+
+
+
+
+
 
 .button {
     padding: 10px;
